@@ -1,0 +1,25 @@
+*{
+    background-color :black ;
+}
+
+#bo1{
+    background-color: black;
+}
+
+#div1{
+    background-color: gray;
+    color: white;
+}
+
+body{
+    background-color: red;
+}
+#div2{
+    background-color: aliceblue;
+    color: black;
+    font-family: 'Courier New', Courier;
+}
+h1{
+    color: white;
+    font-family: "Calibri";
+}
